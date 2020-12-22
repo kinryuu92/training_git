@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>survey khách hàng</title>
+</head>
+<body>
+<h2>Market Research Survey</h2>
+<p>Please take a few moments to complete this satisfaction survey.</p>
+<hr>
+<p><strong>What is your age range?</strong></p>
+<select>
+    <option value="1">18-24</option>
+    <option value="2">25-34</option>
+    <option value="1">35-50</option>
+    <option value="1">50+</option>
+</select>
+<p><strong>What is your yearly income range?</strong></p>
+<select>
+    <option value="A">$0 - $25,000 </option>
+    <option value="B">$25,000 - $50,000 </option>
+    <option value="C">$50,000 - $100,000 </option>
+    <option value="D">$100,000+ </option>
+</select>
+<br><br>
+<form action="">
+    <strong>Gender Identity</strong>:<br>
+    <label><input name="Sex" value="Nam" type="radio"/> Male</label> <br/>
+    <label><input name="Sex" value="Nữ" type="radio"/> Female</label> <br/>
+    <label><input name="Sex" value="Lưỡng tính" type="radio"/> Nonbinary</label> <br/>
+    <label><input name="Sex" value="khác" type="radio"/> Other</label> <br/>
+</form>
+<input type="text"/>
+<br><br>
+<form action="/action_page.php">
+    <strong>Which of the following products have your purchased in the last 2 months. Please check all that apply.</strong>
+    <br>
+    <label><input name="SP" value="1" type="checkbox"/> Product 1</label> <br>
+    <label><input name="SP" value="2" type="checkbox"/> Product 2</label> <br>
+    <label><input name="SP" value="3" type="checkbox"/> Product 3</label> <br>
+</form>
+
+</body>
+</html>

@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="898b4835-e74e-4726-ab57-84843ce33969" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fomdktv1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JVCR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SurveyKH.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fomstcn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV-ca-nhan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timkiemgoogle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_git/CV-ca-nhan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_git/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,7 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608513949669</updated>
       <workItem from="1608513950794" duration="1451000" />
-      <workItem from="1608518066943" duration="6050000" />
+      <workItem from="1608518066943" duration="11352000" />
+      <workItem from="1608540809690" duration="3083000" />
+      <workItem from="1608550026601" duration="4605000" />
+      <workItem from="1608554706316" duration="5269000" />
+      <workItem from="1608565149669" duration="4563000" />
+      <workItem from="1608599217611" duration="4121000" />
+      <workItem from="1608603384089" duration="6805000" />
+      <workItem from="1608610237667" duration="8084000" />
     </task>
     <servers />
   </component>
